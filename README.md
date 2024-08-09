@@ -47,10 +47,7 @@ Feel free to reach out to me at kotharianushika01@gmail.com!
 ![Anushika's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anushika-Kothari&show_icons=true&theme=radical)
 
 ### 🔥 GitHub Streak:
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical&fire=FF4500&ring=FFD700&currStreakLabel=FFD700)
-
-### 👀 Profile Views:
-![Profile Views](https://komarev.com/ghpvc/?username=your-username&color=blue)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Anushika-Kothari&theme=radical&fire=FF4500&ring=FFD700&currStreakLabel=FFD700)
 
 ### 👀 Profile Views:
 ![Profile Views](https://komarev.com/ghpvc/?username=Anushika-Kothari&color=blue)
