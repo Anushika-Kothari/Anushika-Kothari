@@ -13,7 +13,6 @@ I'm also a passionate learner who loves to stay updated with the latest in tech 
 📫 Contact Me
 Feel free to reach out to me at kotharianushika01@gmail.com!
 
-💻 Tech Stack:
 ## 💻 Tech Stack:
 ![C](https://img.shields.io/badge/C-6A5ACD?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-FF4500?style=for-the-badge&logo=c%2B%2B&logoColor=white)
