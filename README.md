@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 
-##💫 **About Me**:
+## 💫 **About Me**:
 
 👋 Welcome! I'm Anushika, an aspiring software engineer student with a strong foundation in programming and web development. I’m skilled in C, C++, Python, and have a growing interest in database management and cloud computing ☁️. I enjoy turning complex problems into simple, beautiful code 💻. When I'm not coding, I’m likely exploring new design tools 🎨 or learning about emerging technologies 🚀.
 
