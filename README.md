@@ -26,7 +26,7 @@ Feel free to reach out to me at paishreya2423@gmail.com!
 ![SQL](https://img.shields.io/badge/SQL-8A2BE2?style=for-the-badge&logo=javascript&logoColor=black)
 ![MySQL](https://img.shields.io/badge/MySQL-48D1CC?style=for-the-badge&logo=javascript&logoColor=black)
 ![Oracle](https://img.shields.io/badge/Oracle-DC143C?style=for-the-badge&logo=javascript&logoColor=black)
-![SQLite]((https://img.shields.io/badge/SQLite-DC14DE?style=for-the-badge&logo=javascript&logoColor=black))
+![SQLite]((https://img.shields.io/badge/SQLite-FF7F50?style=for-the-badge&logo=javascript&logoColor=black))
 ![VectorDB](https://img.shields.io/badge/vectorDB-8B0000?style=for-the-badge&logo=javascript&logoColor=black)
 ![OOPs](https://img.shields.io/badge/oops-FF69B4?style=for-the-badge&logo=javascript&logoColor=black)
 ![DSA](https://img.shields.io/badge/DSA-00CED1?style=for-the-badge&logo=javascript&logoColor=black)
@@ -37,7 +37,7 @@ Feel free to reach out to me at paishreya2423@gmail.com!
 ![Figma](https://img.shields.io/badge/Figma-00FF7F?style=for-the-badge&logo=javascript&logoColor=black)
 ![Google Sites](https://img.shields.io/badge/GoogleSites-1E90FF?style=for-the-badge&logo=javascript&logoColor=black)
 ![MS-Excel](https://img.shields.io/badge/MSExcel-8B4513?style=for-the-badge&logo=javascript&logoColor=black)
-![MS-Word](https://img.shields.io/badge/MS-Word-4682B4?style=for-the-badge&logo=javascript&logoColor=black)
+![MS-Word](https://img.shields.io/badge/MSWord-4682B4?style=for-the-badge&logo=javascript&logoColor=black)
 ![PowerPoint](https://img.shields.io/badge/PowerPoint-B22222?style=for-the-badge&logo=javascript&logoColor=black)
 
 ## 💻 Beginner:
