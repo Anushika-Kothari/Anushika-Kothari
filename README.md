@@ -7,8 +7,10 @@
 🌱 I’m currently learning Springboot framework.
 
 🌐 Socials:
-[Instagram](https://github.com)
-Instagram LinkedIn
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/yourusername)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourusername)
+
 
 📫 Contact Me
 Feel free to reach out to me at paishreya2423@gmail.com!
