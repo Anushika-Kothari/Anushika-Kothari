@@ -26,21 +26,22 @@ Feel free to reach out to me at paishreya2423@gmail.com!
 ![SQL](https://img.shields.io/badge/SQL-8A2BE2?style=for-the-badge&logo=javascript&logoColor=black)
 ![MySQL](https://img.shields.io/badge/MySQL-48D1CC?style=for-the-badge&logo=javascript&logoColor=black)
 ![Oracle](https://img.shields.io/badge/Oracle-DC143C?style=for-the-badge&logo=javascript&logoColor=black)
+![SQLite]((https://img.shields.io/badge/SQLite-DC14DE?style=for-the-badge&logo=javascript&logoColor=black))
 ![VectorDB](https://img.shields.io/badge/vectorDB-8B0000?style=for-the-badge&logo=javascript&logoColor=black)
 ![OOPs](https://img.shields.io/badge/oops-FF69B4?style=for-the-badge&logo=javascript&logoColor=black)
 ![DSA](https://img.shields.io/badge/DSA-00CED1?style=for-the-badge&logo=javascript&logoColor=black)
 
 ## 💻 Other Tools:
-![LaTeX](https://img.shields.io/badge/LaTeX-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Canva](https://img.shields.io/badge/Canva-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Figma](https://img.shields.io/badge/Figma-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Google Sites](https://img.shields.io/badge/Google-Sites-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![MS-Excel](https://img.shields.io/badge/MS-Excel-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![MS-Word](https://img.shields.io/badge/MS-Word-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![PowerPoint](https://img.shields.io/badge/PowerPoint-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![LaTeX](https://img.shields.io/badge/LaTeX-228B22?style=for-the-badge&logo=javascript&logoColor=black)
+![Canva](https://img.shields.io/badge/Canva-FF8C00?style=for-the-badge&logo=javascript&logoColor=black)
+![Figma](https://img.shields.io/badge/Figma-00FF7F?style=for-the-badge&logo=javascript&logoColor=black)
+![Google Sites](https://img.shields.io/badge/GoogleSites-1E90FF?style=for-the-badge&logo=javascript&logoColor=black)
+![MS-Excel](https://img.shields.io/badge/MSExcel-8B4513?style=for-the-badge&logo=javascript&logoColor=black)
+![MS-Word](https://img.shields.io/badge/MS-Word-4682B4?style=for-the-badge&logo=javascript&logoColor=black)
+![PowerPoint](https://img.shields.io/badge/PowerPoint-B22222?style=for-the-badge&logo=javascript&logoColor=black)
 
 ## 💻 Beginner:
-![Docker](https://img.shields.io/badge/Docker-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-4169E1?style=for-the-badge&logo=javascript&logoColor=black)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 
