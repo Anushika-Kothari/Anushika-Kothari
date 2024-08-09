@@ -2,18 +2,18 @@
 
 
 💫 About Me:
-🔭 I’m currently working on Mapping Recommendations to A* algorithm.
-👯 I’m looking to collaborate on MERN stack projects.
-🌱 I’m currently learning Springboot framework.
+👋 Welcome! I'm Anushika, an aspiring software engineer student with a strong foundation in programming and web development. I’m skilled in C, C++, Python, and have a growing interest in database management and cloud computing ☁️. I enjoy turning complex problems into simple, beautiful code 💻. When I'm not coding, I’m likely exploring new design tools 🎨 or learning about emerging technologies 🚀.
+
+I'm also a passionate learner who loves to stay updated with the latest in tech 📚. Let's connect and create something amazing together! 🤝
 
 🌐 Socials:
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/yourusername)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourusername)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/anushika_03)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/anushika-kothari)
 
 
 📫 Contact Me
-Feel free to reach out to me at paishreya2423@gmail.com!
+Feel free to reach out to me at kotharianushika01@gmail.com!
 
 💻 Tech Stack:
 ## 💻 Tech Stack:
