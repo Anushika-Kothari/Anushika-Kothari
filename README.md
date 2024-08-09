@@ -26,7 +26,7 @@ Feel free to reach out to me at paishreya2423@gmail.com!
 ![SQL](https://img.shields.io/badge/SQL-8A2BE2?style=for-the-badge&logo=javascript&logoColor=black)
 ![MySQL](https://img.shields.io/badge/MySQL-48D1CC?style=for-the-badge&logo=javascript&logoColor=black)
 ![Oracle](https://img.shields.io/badge/Oracle-DC143C?style=for-the-badge&logo=javascript&logoColor=black)
-![SQLite]((https://img.shields.io/badge/SQLite-FF7F50?style=for-the-badge&logo=javascript&logoColor=black))
+![SQLite](https://img.shields.io/badge/SQLite-FF7F50?style=for-the-badge&logo=javascript&logoColor=black)
 ![VectorDB](https://img.shields.io/badge/vectorDB-8B0000?style=for-the-badge&logo=javascript&logoColor=black)
 ![OOPs](https://img.shields.io/badge/oops-FF69B4?style=for-the-badge&logo=javascript&logoColor=black)
 ![DSA](https://img.shields.io/badge/DSA-00CED1?style=for-the-badge&logo=javascript&logoColor=black)
