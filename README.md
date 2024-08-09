@@ -1,6 +1,3 @@
-## Hi there 👋
-
-
 ## 💫 **About Me**:
 
 👋 Welcome! I'm Anushika, an aspiring software engineer student with a strong foundation in programming and web development. I’m skilled in C, C++, Python, and have a growing interest in database management and cloud computing ☁️. I enjoy turning complex problems into simple, beautiful code 💻. When I'm not coding, I’m likely exploring new design tools 🎨 or learning about emerging technologies 🚀.
@@ -46,6 +43,14 @@ Feel free to reach out to me at kotharianushika01@gmail.com!
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 
+### 📊 GitHub Stats:
+![Anushika's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anushika-Kothari&show_icons=true&theme=radical)
+
+### 👀 Profile Views:
+![Profile Views](https://komarev.com/ghpvc/?username=Anushika-Kothari&color=blue)
+
+### 🧑‍💻 Top Languages:
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Anushika-Kothari&layout=compact&theme=radical)
 
 
 
