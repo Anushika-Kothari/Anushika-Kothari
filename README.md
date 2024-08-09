@@ -51,8 +51,7 @@ Feel free to reach out to me at kotharianushika01@gmail.com!
 ### 👀 Profile Views:
 ![Profile Views](https://komarev.com/ghpvc/?username=Anushika-Kothari&color=blue)
 
-### 🧑‍💻 Top Languages:
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Anushika-Kothari&layout=compact&theme=radical)
+
 
 
 
